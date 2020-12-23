@@ -42,6 +42,9 @@ And even better if you make a Fork from this repository.
 ### Donation For Coffee :D
 <p>
   <a href="https://trakteer.id/nii-sanHax0r"><img src="https://trakteer.id/images/mix/navbar-logo.png" /></a>
-  
+
+  ![Untitled](https://user-images.githubusercontent.com/45889833/102977943-4ac66a80-4536-11eb-8041-21a0b848ba99.png)
+
+  ![WhatsApp Image 2020-12-23 at 15 42 58](https://user-images.githubusercontent.com/45889833/102977977-59148680-4536-11eb-9054-05c51cc57627.jpeg)
   
 </p>
