@@ -1,6 +1,15 @@
 #!/usr/bin/env php
 
 <?php
+/*
+ ============ {IndoSec Framework} =============
+	Coded By Arikun - IndoSec
+	Tools : SubCalc (Subnet Calculator)
+	Copyrigt (C) 2020 - Nii-san Hax0r
+ 
+ ============ {IndoSec Framework} =============
+*/
+
 os();
 error_reporting(0);
 require 'agent/agent.php';
